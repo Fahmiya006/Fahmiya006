@@ -31,6 +31,9 @@ In my free time, I love reading **self-improvement books** and spending quality 
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)](https://git.io/streak-stats)
+
+
 [![](https://visitcount.itsvg.in/api?id=Fahmiya006&icon=5&color=12)](https://visitcount.itsvg.in)
 
 

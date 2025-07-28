@@ -17,9 +17,10 @@ In my free time, I love reading **self-improvement books** and spending quality 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fahmiya006&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&langs_count=6&custom_title=Fahmiya's+GitHub+Stats&hide=prs)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fahmiya006&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&theme=tokyonight&hide_border=false&layout=compact&langs_count=6&hide=html,javascript,css&custom_title=Most+Used+Languages)
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&theme=tokyonight&show_icons=true&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmiya006&theme=tokyonight&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=false&hide=html,css,javascript)
 
 ---
 

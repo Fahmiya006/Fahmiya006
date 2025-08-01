@@ -23,7 +23,6 @@
 ---
 
 ## 📊 GitHub Stats:
-https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&exclude_repo=c&layout=compact&theme=tokyonight
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&theme=tokyonight&show_icons=true&hide_border=false)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmiya006&theme=tokyonight&hide_border=false)<br/>

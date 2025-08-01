@@ -18,6 +18,9 @@ In my free time, I love reading **self-improvement books** and spending quality 
 
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo_name_here)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fahmiya006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

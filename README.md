@@ -19,7 +19,9 @@ In my free time, I love reading **self-improvement books** and spending quality 
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fahmiya006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Fahmiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---

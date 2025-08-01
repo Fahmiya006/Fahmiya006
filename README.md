@@ -1,11 +1,15 @@
 # 💫 About Me:
-I am a first-year student at **Madras Institute of Technology – Anna University**, pursuing **B.E. Computer Science and Engineering**.  
-I'm currently practicing **C**, **C++**, **Python**, and **Java**, and I'm learning through hands-on coding on **HackerRank**.  
-I'm also doing a **Microsoft AI/ML Engineerging Course on Coursera**.  
-I have always been a **curious, creative learner** passionate about **Artificial Intelligence and Data Science**.  
-In my free time, I love reading **self-improvement books** and spending quality time exploring content on social media.
+
+🎓 I'm a **First-Year B.E. Computer Science and Engineering** student at **Madras Institute of Technology – Anna University**.  
+💻 Passionate about **AI, Data Science**, and all things tech.  
+📚 Currently practicing **C, C++, Python, and Java** and solving problems on **HackerRank**.  
+🧠 Enrolled in the **Microsoft AI/ML Engineering Course on Coursera** to deepen my understanding.  
+📖 Outside of tech, I enjoy reading **self-improvement books** and exploring meaningful content on social media.  
+✨ A **curious and creative learner**, always ready to explore the next big idea!
 
 ---
+
+## 🛠️ Languages & Tools:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -16,27 +20,25 @@ In my free time, I love reading **self-improvement books** and spending quality 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo_name_here)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fahmiya006&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Fahmiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&theme=tokyonight&show_icons=true&hide_border=false)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmiya006&theme=tokyonight&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=false&hide=html,css,javascript)
 
 ---
 
 ## 🏆 GitHub Trophies:
+
 ![](https://github-profile-trophy.vercel.app/?username=Fahmiya006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-
+## 🌐 Visitor Count
 
 [![](https://visitcount.itsvg.in/api?id=Fahmiya006&icon=5&color=12)](https://visitcount.itsvg.in)
 
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

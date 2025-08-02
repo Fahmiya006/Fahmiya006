@@ -23,15 +23,15 @@
 ---
 
 
- ![Profile views](https://komarev.com/ghpvc/?username=niv-csc&color=000000)
- ![image](https://img.shields.io/badge/CONTACT_ME_AT-nivriti3266@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
+ ![Profile views](https://komarev.com/ghpvc/?username=Fahmiya006&color=000000)
+ ![image](https://img.shields.io/badge/CONTACT_ME_AT-ffahmiya06@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
-![](https://github.com/niv-csc/niv-csc/blob/main/pac.gif) <br/>
+![](https://github.com/Fahmiya006/Fahmiya006/blob/main/pac.gif) <br/>
 ♦  ***GitHub Stats:***  <br/>
 
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=niv-csc&theme=dark&hide_border=true)
-<br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
-![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake.svg)
+<br/>![](https://github-contributor-stats.vercel.app/api?username=Fahmiya006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![snake gif](https://github.com/Fahmiya006/Fahmiya006/blob/output/github-snake.svg)
 
 
 

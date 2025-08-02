@@ -22,23 +22,29 @@
 
 ---
 
-## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahmiya006&theme=tokyonight&show_icons=true&hide_border=false)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fahmiya006&theme=tokyonight&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahmiya006&layout=compact&theme=tokyonight&hide_border=false&hide=html,css,javascript)
+ ![Profile views](https://komarev.com/ghpvc/?username=niv-csc&color=000000)
+ ![image](https://img.shields.io/badge/CONTACT_ME_AT-nivriti3266@gmail.com-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000000)
 
----
+![](https://github.com/niv-csc/niv-csc/blob/main/pac.gif) <br/>
+♦  ***GitHub Stats:***  <br/>
 
-## 🏆 GitHub Trophies:
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=niv-csc&theme=dark&hide_border=true)
+<br/>![](https://github-contributor-stats.vercel.app/api?username=niv-csc&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![snake gif](https://github.com/niv-csc/niv-csc/blob/output/github-snake.svg)
 
-![](https://github-profile-trophy.vercel.app/?username=Fahmiya006&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
 
-## 🌐 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=Fahmiya006&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+  
+
+
+
 

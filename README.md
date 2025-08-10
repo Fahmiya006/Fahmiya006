@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a First-Year B.E. Computer Science and Engineering student at Madras Institute of Technology – Anna University.<br>💻 Passionate about AI, Data Science, and all things tech.<br>📚 Currently practicing C, C++, Python, and Java and solving problems on HackerRank.<br>🧠 Enrolled in the Microsoft AI/ML Engineering Course on Coursera to deepen my understanding.<br>📖 Outside of tech, I enjoy reading self-improvement books and exploring meaningful content on social media.<br>✨ A curious and creative learner, always ready to explore the next big idea!<br><br>
+🎓 I'm a Second-Year B.E. Computer Science and Engineering student at Madras Institute of Technology – Anna University.<br>💻 Passionate about AI, Data Science, and all things tech.<br>📚 Currently practicing C, C++, Python, and Java and solving problems on HackerRank.<br>🧠 Enrolled in the Microsoft AI/ML Engineering Course on Coursera to deepen my understanding.<br>📖 Outside of tech, I enjoy reading self-improvement books and exploring meaningful content on social media.<br>✨ A curious and creative learner, always ready to explore the next big idea!<br><br>
 
 
 ## 🌐 Socials:
